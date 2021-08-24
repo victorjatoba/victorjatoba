@@ -33,4 +33,4 @@
   ![Snake animation](https://github.com/victorjatoba/victorjatoba/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="SEUUSUARIO" /> 
+<img src="https://komarev.com/ghpvc/?username=victorjatoba&color=blue" alt="victorjatoba" /> 
