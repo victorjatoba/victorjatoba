@@ -1,7 +1,7 @@
 ## Welcome to my Github Victor Jatobá 🇧🇷
 
-- 🔭 I’m currently working on Credifit
-- 🌱 I’m currently learning Microservices, Clean Code and Clean Architecture and Accordion 🪗
+- 🔭 I’m currently working on [Credifit](https://github.com/credifit-br)
+- 🌱 I’m currently learning Microservices, Clean Code and Clean Architecture and Accordion🪗
 
 <div>
   <a href="https://github.com/victorjatoba">
