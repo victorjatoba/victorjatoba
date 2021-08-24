@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Datas For Commits snake eating
 
 on:
   schedule: # execute every 12 hours
