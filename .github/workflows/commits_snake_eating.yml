@@ -1,8 +1,12 @@
 name: Generate Datas For Commits snake eating
 
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+      # every 6 hours
+    - cron: "0 */6 * * *"
+
+# This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
 jobs:
