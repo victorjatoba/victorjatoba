@@ -1,6 +1,6 @@
 ## Welcome to my Github Victor Jatobá 🇧🇷 🇵🇹
 
-- 🔭 Working on: [Credifit 🇧🇷](https://github.com/credifit-br) and [Multivision 🇵🇹](www.multivision.pt)
+- 🔭 Working on: [Credifit BR](https://github.com/credifit-br) and [Multivision PT](www.multivision.pt)
 - 🪁 Projects: [Altice Labs](https://github.com/AlticeLabsProjects)
 - 🌱 Learning: Microservices, Clean Code, Clean Architecture, Accordion 🪗, How to live and more...
 
