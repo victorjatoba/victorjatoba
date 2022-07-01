@@ -1,9 +1,15 @@
 ## Welcome to my Github Victor Jatobá 🇧🇷 🇵🇹
 
 - 🔭 Working on: [Credifit BR](https://github.com/credifit-br) and [Multivision PT](www.multivision.pt)
-- 🪁 Projects: [Altice Labs](https://github.com/AlticeLabsProjects)
+- <div style="display: inline_block"> 🪁 Organizations: 
+  <a href="https://github.com/AlticeLabsProjects"> <img align="center" alt="Jatoba-Altice" height="20" width="20" src="https://w7.pngwing.com/pngs/253/963/png-transparent-portugal-altice-meo-business-sfr-portugal-2018-logo-business-smart-city.png">
+  <a href="https://github.com/credifit-br"> <img align="center" alt="Jatoba-Credifit" height="20" width="20" src="https://avatars.githubusercontent.com/u/54555246?s=200&v=4">
+  <a href="https://github.com/cabracast"> <img align="center" alt="Jatoba-Cabracast" height="20" width="20" src="https://avatars.githubusercontent.com/u/66394161?s=200&v=4">
 - 🌱 Learning: Microservices, Clean Code, Clean Architecture, Accordion 🪗, How to live and more...
 - 🖱️ [victorjatoba.com](www.victorjatoba.com)
+
+
+Organizations
 
 <div>
   <a href="https://github.com/victorjatoba">
