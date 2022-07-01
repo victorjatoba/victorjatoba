@@ -1,7 +1,8 @@
 ## Welcome to my Github Victor Jatobá 🇧🇷
 
-- 🔭 I’m currently working on [Credifit](https://github.com/credifit-br)
-- 🌱 I’m currently learning Microservices, Clean Code and Clean Architecture and Accordion🪗
+- 🔭 Working on: [Credifit 🇧🇷](https://github.com/credifit-br) and [Multivision 🇵🇹](www.multivision.pt)
+- 🪁 Projects: [Altice Labs](https://github.com/AlticeLabsProjects)
+- 🌱 Learning: Microservices, Clean Code, Clean Architecture, Accordion 🪗, How to live and more...
 
 <div>
   <a href="https://github.com/victorjatoba">
