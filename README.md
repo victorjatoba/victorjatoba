@@ -4,8 +4,6 @@
 - 🔭 Working on: [Credifit BR](https://github.com/credifit-br) and [Multivision PT](https://www.multivision.pt)
 - <div style="display: inline_block"> 🪁 Organizations: 
   <a href="https://github.com/AlticeLabsProjects"> <img align="center" alt="Jatoba-Altice" height="20" width="50" src="https://www.alticeusa.com/sites/default/files/Altice-horz-logo.png">
-  <a href="https://github.com/credifit-br"> <img align="center" alt="Jatoba-Credifit" height="20" width="20" src="https://avatars.githubusercontent.com/u/54555246?s=200&v=4">
-  <a href="https://github.com/cabracast"> <img align="center" alt="Jatoba-Cabracast" height="20" width="20" src="https://avatars.githubusercontent.com/u/66394161?s=200&v=4">
 
 <div>
   <a href="https://github.com/victorjatoba">
