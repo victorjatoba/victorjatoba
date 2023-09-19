@@ -1,10 +1,12 @@
 ## Welcome to my Github Victor Jatobá 🇧🇷 🇵🇹
 
 - 🖱️ [Web page](http://www.victorjatoba.com)
-- 🔭 Working on: [Credifit BR](https://github.com/credifit-br) and [Multivision PT](https://www.multivision.pt)
+- 🔭 Working on: [Multivision PT](https://www.multivision.pt) allocated at [Altice Labs](https://www.alticelabs.com/) client.
+- 🔭 last work: [Credifit BR](https://github.com/credifit-br)
 - <div style="display: inline_block"> 🪁 Organizations: 
   <a href="https://github.com/AlticeLabsProjects"> <img align="center" alt="Jatoba-Altice" height="20" width="50" src="https://www.alticeusa.com/sites/default/files/Altice-horz-logo.png">
-
+  <a href="https://www.multivision.pt/"> <img align="center" alt="Jatoba-Altice" height="20" width="25" src="https://anadesign.pt/wp-content/uploads/2020/02/logo-multivision.png">
+  
 <div>
   <a href="https://github.com/victorjatoba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorjatoba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,8 +14,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jatoba-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jatoba-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Jatoba-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jatoba-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Jatoba-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Jatoba-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
