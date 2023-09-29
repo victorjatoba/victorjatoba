@@ -2,7 +2,7 @@
 
 - 🖱️ [Web page](http://www.victorjatoba.com)
 - 🔭 Working on: [Multivision PT](https://www.multivision.pt) allocated at [Altice Labs](https://www.alticelabs.com/) client.
-- 🔭 last work: [Credifit BR](https://github.com/credifit-br)
+- 🔭 last work: [Credifit BR](https://github.com/credifit-br) <a href="https://github.com/credifit-br"> <img align="center" alt="Jatoba-Credifit" height="20" width="20" src="https://avatars.githubusercontent.com/u/54555246?s=200&v=4">
 - <div style="display: inline_block"> 🪁 Organizations: 
   <a href="https://github.com/AlticeLabsProjects"> <img align="center" alt="Jatoba-Altice" height="20" width="50" src="https://www.alticeusa.com/sites/default/files/Altice-horz-logo.png">
   <a href="https://www.multivision.pt/"> <img align="center" alt="Jatoba-Altice" height="20" width="25" src="https://anadesign.pt/wp-content/uploads/2020/02/logo-multivision.png">
